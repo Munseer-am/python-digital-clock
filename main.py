@@ -1,8 +1,11 @@
+#! bin/env python3
+# importing required modules
 from tkinter import *
 from tkinter.ttk  import *
 
 from time import strftime
 
+# setting up clock
 root =Tk()
 root.title("clock")
 
