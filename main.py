@@ -21,4 +21,5 @@ label = Label(root, font=("ds-digital", 25), background = "black", foreground = 
 label.pack(anchor='center')
 time()
 
+# finishing clock
 mainloop()
