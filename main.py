@@ -1,4 +1,4 @@
-#! bin/env python3
+#! usr/bin/env python3
 # importing required modules
 
 """This programme is created by Munseer."""
